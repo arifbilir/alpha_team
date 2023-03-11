@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <>
       <div className="bg-[#212529] flex justify-between sm:justify-around   text-white items-center py-3 z-10 w-full sm:fixed">
-        <div className="text-xl ml-5 sm:ml-0">Alpha Tech</div>
+        <div className="text-xl ml-5 sm:ml-0">Bilir Tech</div>
         <div>
           <div
             className="sm:hidden mr-5 p-2 text-3xl cursor-pointer"
