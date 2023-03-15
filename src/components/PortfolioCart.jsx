@@ -4,7 +4,7 @@ const PortfolioCart = ({ photo }) => {
   return (
     <div className="w-auto rounded-lg overflow-hidden">
       <div>
-        <img src={photo} alt="asdpgpasd" className="w-full object-cover" />
+        <img src={ photo } alt="asdpgpasd" className="w-full object-cover" />
       </div>
 
       <div className="text-center bg-white p-5">
